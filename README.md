@@ -1,1 +1,1 @@
-# st7codes
+See detailed README and license files for setup instructions.
